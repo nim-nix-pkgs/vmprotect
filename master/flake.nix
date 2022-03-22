@@ -9,7 +9,7 @@
   
   inputs.src-vmprotect-master.flake = false;
   inputs.src-vmprotect-master.owner = "ba0f3";
-  inputs.src-vmprotect-master.ref   = "refs/heads/master";
+  inputs.src-vmprotect-master.ref   = "master";
   inputs.src-vmprotect-master.repo  = "vmprotect.nim";
   inputs.src-vmprotect-master.type  = "github";
   
